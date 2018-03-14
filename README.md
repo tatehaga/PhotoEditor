@@ -2,7 +2,7 @@
 * Command line image randomizer built on Python3
 * Supports BMP, PNG, JPG, TIFF with RGB and RGBA channels
 
-###Usage:
+### Usage:
 
 main.py [-h] filename [-o OUTPUT] [-v] [-ns] [-nd] [-r RANDOMNESS] 
 
@@ -13,7 +13,7 @@ main.py [-h] filename [-o OUTPUT] [-v] [-ns] [-nd] [-r RANDOMNESS]
 Files save as {input_filename}\_RandomNoise_{randomnessvalue}.{input_filetype} (unless -o flag is used)
 
 
-###Commands:
+### Commands:
 
 commands | usage
 ------|--------
