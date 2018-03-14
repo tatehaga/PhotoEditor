@@ -23,3 +23,12 @@ commands | usage
 -ns, -\-nosave | runs without saving a copy to memory
 -nd, -\-nodisplay | runs without displaying both the input and altered file
 -h, -\-help | displays help message and exits
+
+### Dependent upon the Python Imaging Library
+##### Windows
+Visit https://www.lfd.uci.edu/~gohlke/pythonlibs/ and download the Windows installer for Python3
+
+##### Linux
+~~~
+>> sudo apt install python-imaging
+~~~ 
